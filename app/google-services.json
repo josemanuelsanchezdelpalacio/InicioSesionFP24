@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "341502186281",
-    "project_id": "fp24puntosvioletas",
-    "storage_bucket": "fp24puntosvioletas.appspot.com"
+    "project_number": "1039025684542",
+    "project_id": "iniciosesionfp24-ee8aa",
+    "storage_bucket": "iniciosesionfp24-ee8aa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:341502186281:android:2d89633d86353277445d38",
+        "mobilesdk_app_id": "1:1039025684542:android:fd7b9738ea6a878743116f",
         "android_client_info": {
           "package_name": "com.iessanalberto.dam2.iniciosesionfp24"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBtd5fFbwAJ0Ru-bNVAEy2diGjqkF9kq7E"
+          "current_key": "AIzaSyBZcJIaFkHD5tOooARDHPhzNYtgRSL1lDw"
         }
       ],
       "services": {
