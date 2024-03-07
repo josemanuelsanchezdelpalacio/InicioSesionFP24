@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "1039025684542",
-    "project_id": "iniciosesionfp24-ee8aa",
-    "storage_bucket": "iniciosesionfp24-ee8aa.appspot.com"
+    "project_number": "866905528979",
+    "project_id": "factoriafp24",
+    "storage_bucket": "factoriafp24.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1039025684542:android:fd7b9738ea6a878743116f",
+        "mobilesdk_app_id": "1:866905528979:android:47a1bd325358d0a8e58b66",
         "android_client_info": {
           "package_name": "com.iessanalberto.dam2.iniciosesionfp24"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBZcJIaFkHD5tOooARDHPhzNYtgRSL1lDw"
+          "current_key": "AIzaSyDOEpwwg7tO4ghFOrapLW6FM5qtH39VxXA"
         }
       ],
       "services": {

@@ -3,7 +3,6 @@ package com.iessanalberto.dam2.iniciosesionfp24.models
 import android.content.Context
 import android.widget.Toast
 import androidx.lifecycle.ViewModel
-import androidx.navigation.NavController
 import com.iessanalberto.dam2.iniciosesionfp24.states.UiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
